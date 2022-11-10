@@ -1,4 +1,4 @@
-//Find the exponent
+#Find the exponent
 base=int(input())
 expo=int(input())
 result=base
@@ -8,4 +8,5 @@ if(expo!=0):
 
 else:
     result==1
-print(result)        
+print(result) 
+        
