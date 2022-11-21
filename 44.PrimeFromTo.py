@@ -1,4 +1,4 @@
-# enter the prime number starting to ending
+# enter the prime number starting to ending in given string
 n1=int(input())
 n2=int(input())
 for i in range(n1,n2):
